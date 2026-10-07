@@ -1,6 +1,6 @@
 # Hi, I'm Sumit Basnale 👋
 
-🎓 Computer Science Student  
+🎓 Information Science Student  
 💻 Python & Data Analytics  
 🤖 Exploring AI/ML  
 🚀 Building practical projects and learning new technologies
